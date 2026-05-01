@@ -1,4 +1,18 @@
+# Environment
 .env
+
+# Python
 __pycache__/
-.idea/
 *.pyc
+
+# IDE
+.idea/
+
+# Database
+*.db
+
+# Model files
+*.h5
+
+# System files
+.DS_Store
